@@ -9,4 +9,4 @@ Add the text in output.txt to DragOP.js line 4160(as of 3/2/17 Beta Build) proba
 
 You can look for "songList: [" in the JS file, hopefully that helps.
 
-Why the copy? I want to keep this one for major changes, and the original for every day tiny changes! :)
+Why the copy? I want to keep this one for every day tiny changes!, and the original for major changes :)
